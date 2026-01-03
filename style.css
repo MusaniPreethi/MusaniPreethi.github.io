@@ -1,0 +1,19 @@
+.header{
+    padding: 10px;
+        display:flex;
+        background-color: pink;
+        justify-content: space-between;
+
+        color:white;
+    }
+    .footer{
+        background-color:silver;
+        color:white;
+    }
+    .container{
+        margin:0px;
+    }
+    .menu{
+        display:flex
+
+    }
